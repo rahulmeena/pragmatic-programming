@@ -1,0 +1,25 @@
+Computer Science and Engineering, B.Tech-M.Tech Dual Degree [Aug 2010 – Oct 2015]
+Indian Institute of Technology Kanpur, India
+Relevant Projects:
+ Master Thesis: Detecting and Tracking Faces in Traffic Videos [May 2014 – Oct 2015]
+- Developed a model to classify each video frame as foreground frame or background frame to reduced 50% of data.
+- Detected possible faces using Haar-Cascade face detector and filtered through a trained classifier for skin detection.
+- Extracted features of the remaining faces using fine-tuned AlexNet Deep CNN to build a binary SVM face classifier.
+ Machine Learning Course Project / Kaggle Data Science Competition: Facial Keypoints Detection [Jan – Apr 2015]
+- Carefully analyzed dataset to catch insights and applied necessary modifications in favor of following prediction models.
+- Trained a single layer and then a double layer architecture neural network to improve RMSE score from 3.78 to 3.42.
+- Built and trained a CNN with 3 convolutional and 2 FC layers to get RMSE score of 3.36(full data) and 2.95(filtered data).
+Reference: Link to project report- https://goo.gl/WcUuUm
+ Artificial Intelligence Course Project: Penalty Kick by Humanoid Aldebaran Nao Robot [Jan – Apr 2013]
+- Detected ball and goal by transforming to HSV color space.
+- Used Inverse Kinematics and morphological operations to reach the ball and kick.
+ Second Prize Winner at Yahoo! HackU 2013
+- Built an app ‘DocPic Hunt’ which secured second prize among 80 different apps.
+- Generated tags of an image by classifying it in Multi-Class SVM trained with SIFT features of more than hundred objects.
+
+
+Platforms Linux, Eclipse IDE, MATLAB
+Frameworks and Libraries Caffe, TensorFlow, OpenCV, Scikit-learn
+Major Languages C, C++, Python, Delphi, MySQL, UNIX Shell Scripting
+Familiar with JAVA, R, Perl, HTML
+Communication Fluent in English, learning Mandarin Chinese enthusiastically
